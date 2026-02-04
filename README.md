@@ -97,8 +97,3 @@ The platform scales to **1k+ concurrent sessions** by:
 
 > Designed and built a production-grade LLM-powered AI agent platform using FastAPI and LangGraph, supporting stateful multi-step reasoning, long-term semantic memory with pgvector, real-time streaming, and 1k+ concurrent sessions with secure auth, rate limiting, and full observability.
 
----
-
-## 📄 License
-
-MIT License
